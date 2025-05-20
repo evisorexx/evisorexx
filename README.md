@@ -21,7 +21,8 @@
 ---
 
 I'm 25 y.o., Junior+ Backend Developer :sunglasses:
-This account exists as location for my educational/test projects.
+
+This account exists as location for my pet/test projects.
 
 ---
 
