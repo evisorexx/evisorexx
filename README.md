@@ -20,7 +20,8 @@
 
 ---
 
-I'm 25 y.o. and my passion is developing backend :sunglasses:
+I'm 25 y.o., Junior+ Backend Developer :sunglasses:
+This account exists as location for my educational/test projects.
 
 ---
 
